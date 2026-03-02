@@ -32,5 +32,5 @@ O dashboard foi estruturado com foco executivo, incluindo:
 - Comparativos de utilização
 - Filtros interativos por cliente, servidor e período
 
-<img width="1395" height="790" alt="dashboard_menu_filter" src="https://github.com/user-attachments/assets/29a0dc2c-56c5-4888-a19a-d316b8f59f59" />
 <img width="1402" height="788" alt="dashboard_overview" src="https://github.com/user-attachments/assets/e8499b4a-dd06-4177-9bab-b3cb5f7da97f" />
+<img width="1395" height="790" alt="dashboard_menu_filter" src="https://github.com/user-attachments/assets/29a0dc2c-56c5-4888-a19a-d316b8f59f59" />
